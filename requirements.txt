@@ -1,0 +1,6 @@
+flask
+pandas
+numpy
+scikit-learn
+prometheus_client
+requests
